@@ -35,6 +35,6 @@ No additional packages, downloads, or installations are required. The game was c
 ## Game Website
 If published through GitHub Pages, the game can also be played online:
 
-[Play Picture Perfect](https://YOUR-USERNAME.github.io/Homework-6/)
+[file:///C:/Users/thigg/Downloads/picture_perfect%20(1).html]
 
 
