@@ -34,6 +34,6 @@ No additional packages, downloads, or installations are required. The game was c
 
 ## Play the Game
 
-[🧩 Click Here to Play Picture Perfect](YOUR-GITHUB-PAGES-URL)
+file:///C:/Users/thigg/Downloads/index_html.html
 
 
