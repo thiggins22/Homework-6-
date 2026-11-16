@@ -37,4 +37,4 @@ If published through GitHub Pages, the game can also be played online:
 
 [Play Picture Perfect](https://YOUR-USERNAME.github.io/Homework-6/)
 
-*Replace YOUR-USERNAME with your GitHub username and confirm the link works before submitting.*
+
