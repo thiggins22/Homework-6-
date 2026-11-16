@@ -32,9 +32,8 @@ Picture Perfect is a customizable puzzle game where players upload their own pic
 ## Setup Requirements
 No additional packages, downloads, or installations are required. The game was created using HTML, CSS, and JavaScript and runs directly in a web browser.
 
-## Game Website
-If published through GitHub Pages, the game can also be played online:
+## Play the Game
 
-[file:///C:/Users/thigg/Downloads/picture_perfect%20(1).html]
+[🧩 Click Here to Play Picture Perfect](YOUR-GITHUB-PAGES-URL)
 
 
