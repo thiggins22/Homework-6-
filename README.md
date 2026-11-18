@@ -34,6 +34,6 @@ No additional packages, downloads, or installations are required. The game was c
 
 ## Play the Game
 
-file:///C:/Users/thigg/Downloads/index_html.html
+file:///C:/Users/thigg/Downloads/index.html
 
 
